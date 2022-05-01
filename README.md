@@ -1,4 +1,5 @@
-<p align="center"><a><img width="80%" src="https://user-images.githubusercontent.com/104709502/166140417-6f3e1e0a-875c-4c62-bccc-3d4bea511a08.png" /></a></p>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/104709502/166143497-14d4e680-5164-49b7-8320-f7ad8d3bf738.png" /></a></p>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/104709502/166143022-4cd932cc-35e0-4f45-a1dc-dde7adedc6a4.png" /></a></p>
 
 <br />
 
@@ -12,7 +13,7 @@ I'm a self-taught passionate ... developer from Vietnam 🇻🇳
 
 - ❤️ I love writing ..., and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/namnguyen02/namnguyen02/issues)
 
 <code><img height="25" src="https://user-images.githubusercontent.com/104709502/166142234-cb706b6d-0427-49e8-b858-32863b730b81.svg"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/104709502/166142268-6f8be0dd-d2ac-4ec0-b029-39cccf33dc05.svg"></code>
