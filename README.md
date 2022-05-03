@@ -1,8 +1,6 @@
 <p align="center"><a><img src="https://user-images.githubusercontent.com/104709502/166200685-3521fbad-506e-4dbe-91b9-5aaeefa70e78.svg" /></a></p>
 
-> I'm a self-taught passionate developer from Vietnam <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:0px;" height="20px"> <br />
-> I'm passionate about technology and how it can be leveraged to affect communities positively
-
+> I’m a passionate backend developer from Vietnam <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:0px;" height="20px">
 
 ### ✨ About me
 
@@ -44,11 +42,13 @@
 <a href="https://github.com/namnguyen02/sorting-algorithm-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=sorting-algorithm-simulator&theme=buefy" /></a>
 <a href="https://github.com/namnguyen02/TicTacToe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=TicTacToe&theme=buefy" /></a>
 
-### 🎈 Kick up your heels
+### 🎈 Kick up Your heels
 
-<p align="center"><img src="https://random-memer.herokuapp.com" alt="Please refresh the page if the meme doesn't show up." /><p>
-
-<a href="https://t.me/nhhnmm"><img align="right" width="25px" src="https://seekicon.com/free-icon-download/telegram_5.svg" /></a>
-<a href="https://twitter.com/nhhnmm__"><img align="right" width="25px" src="https://seekicon.com/free-icon-download/twitter_3.svg" /></a>
-<a href="https://www.linkedin.com/in/nhhnmm/"><img align="right" width="25px" src="https://seekicon.com/free-icon-download/linkedin_2.svg" /></a>
-<a href="https://www.facebook.com/nhhnmm"><img align="right" width="25px" src="https://seekicon.com/free-icon-download/facebook_2.svg" /></a>
+<p align="center"><img style="width:60%;height:auto" src="https://random-memer.herokuapp.com" alt="Please refresh the page if the meme doesn't show up." /><p>
+  
+<!-- https://iconmonstr.com/ -->
+<a href="https://t.me/nhhnmm"><img align="right" src="https://user-images.githubusercontent.com/104709502/166429560-5e0f6b2f-c990-4984-bae6-4ad4368d207b.svg"></a>
+<a href="https://www.instagram.com/nhhnmm__/"><img align="right" src="https://user-images.githubusercontent.com/104709502/166429873-da58794b-431e-4a36-8e6d-ada6d6e18a7d.svg" /></a>
+<a href="https://www.facebook.com/nhhnmm"><img align="right" src="https://user-images.githubusercontent.com/104709502/166429665-a07a2f92-9165-4216-81fc-8be2657635d2.svg" /></a>
+<a href="https://twitter.com/nhhnmm__"><img align="right" src="https://user-images.githubusercontent.com/104709502/166429453-60f11f08-60a5-4f4b-8fc3-309d4b0a35bb.svg"></a>
+<a href="https://www.linkedin.com/in/nhhnmm/"><img align="right" src="https://user-images.githubusercontent.com/104709502/166429244-82fa103d-1350-425f-9b1a-993c1be8cdf9.svg"></a>
