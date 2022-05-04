@@ -1,13 +1,13 @@
 <p align="center"><a><img src="https://user-images.githubusercontent.com/104709502/166200685-3521fbad-506e-4dbe-91b9-5aaeefa70e78.svg" /></a></p>
 
-> I’m a passionate backend developer from Vietnam <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:0px;" height="20px">
-
+<!-- > I’m a passionate backend developer from Vietnam <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:0px;" height="20px"> -->
+> I’m trying to be a backend developer <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:0px;" height="20px">
 ### ✨ About Me
 
-- 💼 ... Engineer at 
+<!-- - 💼 ... Engineer at  -->
+<!-- - ❤️ I love writing ..., and building fun experiments on type-level -->
 - 🏫 I’m a sophomore of the Ho Chi Minh City University of Technology
 - 🌱 I’m looking to collaborate on ...
-- ❤️ I love writing ..., and building fun experiments on type-level
 - 🎉 Fun fact: I love music 🎧, tv series 📺 and movies 🎞️
 - 💬 Ask me about anything [here](https://github.com/namnguyen02/namnguyen02/issues)
 
@@ -41,8 +41,8 @@
 
 ### ↗️ Top Repositories
 
-<a href="https://github.com/namnguyen02/sorting-algorithm-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=sorting-algorithm-simulator&theme=buefy" /></a>
 <a href="https://github.com/namnguyen02/TicTacToe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=TicTacToe&theme=buefy" /></a>
+<a href="https://github.com/namnguyen02/sorting-algorithm-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=sorting-algorithm-simulator&theme=buefy" /></a>
 
 ### 🎈 Kick Up Your Heels
 
