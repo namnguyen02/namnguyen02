@@ -42,7 +42,6 @@
 ### ↗️ Top Repositories
 
 <a href="https://github.com/namnguyen02/TicTacToe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=TicTacToe&theme=buefy" /></a>
-<a href="https://github.com/namnguyen02/sorting-algorithm-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=sorting-algorithm-simulator&theme=buefy" /></a>
 
 ### 🎈 Kick Up Your Heels
 
