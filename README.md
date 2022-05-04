@@ -15,19 +15,19 @@
 
 <section align="center">
 <code><a><img height="40" src="https://seekicon.com/free-icon-download/javascript_3.svg" /></a></code>
-<code><a href="https://www.python.org"><img height="40" src="https://www.svgrepo.com/show/354238/python.svg" /></a></code>
-<code><a href="https://www.ruby-lang.org/en/"><img height="40" src="https://seekicon.com/free-icon-download/ruby_4.svg" /></a></code>
-<code><a href="https://www.java.com/en/"><img height="40" src="https://seekicon.com/free-icon-download/java_5.svg" /></a></code>
 <code><a><img height="40" src="https://seekicon.com/free-icon-download/c-sharp_1.svg" /></a></code>
+<code><a href="https://www.python.org"><img height="40" src="https://www.svgrepo.com/show/354238/python.svg" /></a></code>
+<!-- <code><a href="https://www.ruby-lang.org/en/"><img height="40" src="https://seekicon.com/free-icon-download/ruby_4.svg" /></a></code> -->
+<code><a href="https://www.java.com/en/"><img height="40" src="https://seekicon.com/free-icon-download/java_5.svg" /></a></code>
 <code><a href="https://www.php.net/"><img height="40" src="https://seekicon.com/free-icon-download/php_4.svg" /></a></code>
-<code><a href="https://www.rust-lang.org/"><img height="40" src="https://seekicon.com/free-icon-download/rust_3.svg" /></a></code>
-<code><a href="https://go.dev/"><img height="40" src="https://www.svgrepo.com/show/353795/go.svg" /></a></code>
-<code><a href="https://spring.io"><img height="40" src="https://www.svgrepo.com/show/376350/spring.svg" /></a></code>
+<!-- <code><a href="https://www.rust-lang.org/"><img height="40" src="https://seekicon.com/free-icon-download/rust_3.svg" /></a></code>
+<code><a href="https://go.dev/"><img height="40" src="https://www.svgrepo.com/show/353795/go.svg" /></a></code> -->
 <code><a href="https://www.djangoproject.com"><img height="40" src="https://www.svgrepo.com/show/373554/django.svg" /></a></code>
-<code><a href="https://cakephp.org/"><img height="40" src="https://www.svgrepo.com/show/353531/cakephp-icon.svg" /></a></code>
+<code><a href="https://spring.io"><img height="40" src="https://www.svgrepo.com/show/376350/spring.svg" /></a></code>
+<!-- <code><a href="https://cakephp.org/"><img height="40" src="https://www.svgrepo.com/show/353531/cakephp-icon.svg" /></a></code> -->
 <code><a href="https://laravel.com/"><img height="40" src="https://www.svgrepo.com/show/353985/laravel.svg" /></a></code>
-<code><a href="https://phalcon.io/en-us"><img height="40" src="https://www.svgrepo.com/show/354178/phalcon.svg" /></a></code>
-<code><a href="https://rubyonrails.org"><img height="40" src="https://www.svgrepo.com/show/354252/rails.svg" /></a></code>
+<!-- <code><a href="https://phalcon.io/en-us"><img height="40" src="https://www.svgrepo.com/show/354178/phalcon.svg" /></a></code>
+<code><a href="https://rubyonrails.org"><img height="40" src="https://www.svgrepo.com/show/354252/rails.svg" /></a></code> -->
 <code><a href="https://httpd.apache.org"><img height="40" src="https://seekicon.com/free-icon-download/apache_2.svg" /></a></code>
 <code><a href="https://www.docker.com"><img height="40" src="https://seekicon.com/free-icon-download/docker_5.svg" /></a></code>
 <code><a href="https://git-scm.com"><img height="40" src="https://seekicon.com/free-icon-download/git_6.svg" /></a></code>
