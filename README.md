@@ -2,7 +2,7 @@
 
 > I’m a passionate backend developer from Vietnam <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:0px;" height="20px">
 
-### ✨ About me
+### ✨ About Me
 
 - 💼 ... Engineer at 
 - 🏫 I’m a sophomore of the Ho Chi Minh City University of Technology
@@ -14,22 +14,24 @@
 ### 🛠️ Technologies and Tools
 
 <section align="center">
-<a><img height="40" src="https://www.svgrepo.com/show/353622/c-sharp.svg" /></a>
-<a><img height="40" src="https://www.svgrepo.com/show/349402/html5.svg" /></a>
-<a><img height="40" src="https://www.svgrepo.com/show/349330/css3.svg" /></a>
-<a><img height="40" src="https://www.svgrepo.com/show/353925/javascript.svg" /></a>
-<a href="https://www.java.com/en/"><img height="40" src="https://seekicon.com/free-icon-download/java_5.svg" /></a>
-<a href="https://www.python.org"><img height="40" src="https://seekicon.com/free-icon-download/python_4.svg" /></a>
-<a href="https://www.php.net"><img height="40" src="https://seekicon.com/free-icon-download/php_4.svg" /></a>
-<a href="https://www.ruby-lang.org/en/"><img height="40" src="https://seekicon.com/free-icon-download/ruby_4.svg" /></a>
-<a href="https://spring.io"><img height="40" src="https://www.svgrepo.com/show/376350/spring.svg" /></a>
-<a href="https://www.djangoproject.com"><img height="40" src="https://www.svgrepo.com/show/373554/django.svg" /></a>
-<a href="https://laravel.com"><img height="40" src="https://www.svgrepo.com/show/353985/laravel.svg" /></a>
-<a href="https://rubyonrails.org"><img height="40" src="https://www.svgrepo.com/show/354252/rails.svg" /></a>
-<a href="https://httpd.apache.org"><img height="40" src="https://seekicon.com/free-icon-download/apache_2.svg" /></a>
-<a href="https://www.docker.com"><img height="40" src="https://seekicon.com/free-icon-download/docker_5.svg" /></a>
-<a href="https://git-scm.com"><img height="40" src="https://seekicon.com/free-icon-download/git_6.svg" /></a>
-<a href="https://www.atlassian.com/software/jira"><img height="40" src="https://www.svgrepo.com/show/376328/jira.svg" /></a>
+<code><a><img height="40" src="https://seekicon.com/free-icon-download/javascript_3.svg" /></a></code>
+<code><a href="https://www.python.org"><img height="40" src="https://www.svgrepo.com/show/354238/python.svg" /></a></code>
+<code><a href="https://www.ruby-lang.org/en/"><img height="40" src="https://seekicon.com/free-icon-download/ruby_4.svg" /></a></code>
+<code><a href="https://www.java.com/en/"><img height="40" src="https://seekicon.com/free-icon-download/java_5.svg" /></a></code>
+<code><a><img height="40" src="https://seekicon.com/free-icon-download/c-sharp_1.svg" /></a></code>
+<code><a href="https://www.php.net/"><img height="40" src="https://seekicon.com/free-icon-download/php_4.svg" /></a></code>
+<code><a href="https://www.rust-lang.org/"><img height="40" src="https://seekicon.com/free-icon-download/rust_3.svg" /></a></code>
+<code><a href="https://go.dev/"><img height="40" src="https://www.svgrepo.com/show/353795/go.svg" /></a></code>
+<code><a href="https://spring.io"><img height="40" src="https://www.svgrepo.com/show/376350/spring.svg" /></a></code>
+<code><a href="https://www.djangoproject.com"><img height="40" src="https://www.svgrepo.com/show/373554/django.svg" /></a></code>
+<code><a href="https://cakephp.org/"><img height="40" src="https://www.svgrepo.com/show/353531/cakephp-icon.svg" /></a></code>
+<code><a href="https://laravel.com/"><img height="40" src="https://www.svgrepo.com/show/353985/laravel.svg" /></a></code>
+<code><a href="https://phalcon.io/en-us"><img height="40" src="https://www.svgrepo.com/show/354178/phalcon.svg" /></a></code>
+<code><a href="https://rubyonrails.org"><img height="40" src="https://www.svgrepo.com/show/354252/rails.svg" /></a></code>
+<code><a href="https://httpd.apache.org"><img height="40" src="https://seekicon.com/free-icon-download/apache_2.svg" /></a></code>
+<code><a href="https://www.docker.com"><img height="40" src="https://seekicon.com/free-icon-download/docker_5.svg" /></a></code>
+<code><a href="https://git-scm.com"><img height="40" src="https://seekicon.com/free-icon-download/git_6.svg" /></a></code>
+<code><a href="https://www.atlassian.com/software/jira"><img height="40" src="https://www.svgrepo.com/show/376328/jira.svg" /></a></code>
 </section>
 
 ### 📈 GitHub Statistics
@@ -42,7 +44,7 @@
 <a href="https://github.com/namnguyen02/sorting-algorithm-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=sorting-algorithm-simulator&theme=buefy" /></a>
 <a href="https://github.com/namnguyen02/TicTacToe"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namnguyen02&repo=TicTacToe&theme=buefy" /></a>
 
-### 🎈 Kick up Your heels
+### 🎈 Kick Up Your Heels
 
 <p align="center"><img style="width:60%;height:auto" src="https://random-memer.herokuapp.com" alt="Please refresh the page if the meme doesn't show up." /><p>
   
