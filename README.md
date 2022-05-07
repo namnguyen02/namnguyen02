@@ -45,7 +45,7 @@
 
 ### 🎈 Kick Up Your Heels
 
-<p align="center"><img style="width:60%;height:auto" src="https://namnguyen02.github.io/random-image-generator/" alt="Please refresh the page if the meme doesn't show up." /><p>
+<p align="center"><img style="width:60%;height:auto" src="https://random-memer.herokuapp.com/" alt="Please refresh the page if the meme doesn't show up." /><p>
   
 <!-- https://iconmonstr.com/ -->
 <a href="https://t.me/nhhnmm"><img align="right" src="https://user-images.githubusercontent.com/104709502/166429560-5e0f6b2f-c990-4984-bae6-4ad4368d207b.svg"></a>
